@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "verdeterre",
+    "site": "verdeterre-oib16",
     "public": "dist",
     "ignore": [
       "firebase.json",
